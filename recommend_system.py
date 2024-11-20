@@ -222,7 +222,7 @@ if __name__ == "__main__":
     _, col1, col2, _ = st.columns([0.2, 0.7, 1.5, 0.2])
 
     with col1:
-        st.image("./data/recommend_system_data/system_image.png", width=380)
+        st.image("./recommend_system_data/system_image.png", width=380)
 
     with col2:
         ## ============== 카테고리, 해시태그 선택과 1차 데이터 필터링 ==============
