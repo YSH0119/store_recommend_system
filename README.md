@@ -1,1 +1,3 @@
-# store_recommend_system
+## 흑백요리사 식당 추천 시스템
+- 소개: 흑백요리사 출연진들의 가게의 리뷰를 수집해 리뷰와 사용자 입력 기반으로 하여 사용자 맞춤 흑백요리사 식당을 추천해주는 시스템입니다.
+- 시스템 url:  https://store-recommend.streamlit.app/
